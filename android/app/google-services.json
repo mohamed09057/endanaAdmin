@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "222801266293",
+    "project_id": "endana-44b1d",
+    "storage_bucket": "endana-44b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222801266293:android:f40118170fd1a9a9a2da3c",
+        "android_client_info": {
+          "package_name": "com.example.endanaAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222801266293-h7b7arbdrgi8isj0malv6cm4ce0v954b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBH5yHAEq_GKpzPKITI9l04_FGqy0sDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222801266293-h7b7arbdrgi8isj0malv6cm4ce0v954b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222801266293:android:bb223228efb56e8da2da3c",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222801266293-h7b7arbdrgi8isj0malv6cm4ce0v954b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVBH5yHAEq_GKpzPKITI9l04_FGqy0sDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222801266293-h7b7arbdrgi8isj0malv6cm4ce0v954b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
